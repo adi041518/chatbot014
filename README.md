@@ -1,4 +1,4 @@
-![ChatterBot: Machine learning in Python](https://i.imgur.com/b3SCmGT.png)
+
 
 # ChatterBot
 
@@ -17,12 +17,7 @@ to be trained to speak any language.
 [![Code Climate](https://codeclimate.com/github/gunthercox/ChatterBot/badges/gpa.svg)](https://codeclimate.com/github/gunthercox/ChatterBot)
 [![Join the chat at https://gitter.im/chatterbot/Lobby](https://badges.gitter.im/chatterbot/Lobby.svg)](https://gitter.im/chatterbot/Lobby?utm_source=badge&utm_medium=badge&utm_content=badge)
 
-An example of typical input would be something like this:
 
-> **user:** Good morning! How are you doing?  
-> **bot:**  I am doing very well, thank you for asking.  
-> **user:** You're welcome.  
-> **bot:** Do you like hats?  
 
 ## How it works
 
